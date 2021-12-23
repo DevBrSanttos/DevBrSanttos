@@ -3,7 +3,8 @@
 
 ### Eu sou o Bruno Santos 👋
 - Sou Graduando em Ciência da computação
-- Estou em busca de uma oportunidade de estágio onde possa desenvolver meus conhecimentos
+- Graduado em técnico em informática
+- Graduado em técnico em eletrônica
 <div align="center">
   <a href="https://github.com/DevBrSanttos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBrSanttos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
